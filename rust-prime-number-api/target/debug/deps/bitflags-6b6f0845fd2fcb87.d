@@ -1,0 +1,12 @@
+/workspaces/IDS721-Mini-PJ11/rust-prime-number-api/target/debug/deps/bitflags-6b6f0845fd2fcb87.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/parser.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/traits.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/public.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/internal.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/external.rs
+
+/workspaces/IDS721-Mini-PJ11/rust-prime-number-api/target/debug/deps/libbitflags-6b6f0845fd2fcb87.rlib: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/parser.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/traits.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/public.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/internal.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/external.rs
+
+/workspaces/IDS721-Mini-PJ11/rust-prime-number-api/target/debug/deps/bitflags-6b6f0845fd2fcb87.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/parser.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/traits.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/public.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/internal.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/external.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/parser.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/traits.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/public.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/internal.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/bitflags-2.1.0/src/external.rs:
